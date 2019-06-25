@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697178475752",
+    "firebase_url": "https://jcbtracking-f2666.firebaseio.com",
+    "project_id": "jcbtracking-f2666",
+    "storage_bucket": "jcbtracking-f2666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697178475752:android:6ff51e8269c5bb25",
+        "android_client_info": {
+          "package_name": "com.example.trackingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697178475752-vtfp107lkflubbfai8bkqgp0ddv3nn97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackingservice",
+            "certificate_hash": "59f2324911440d72c1b2c5f0a21cccc8596abffd"
+          }
+        },
+        {
+          "client_id": "697178475752-37uoroev11ii5d2hb850n91hctpe4auu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhtiMvReLxhOGwl3pkgBw-y1YxVRbtks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697178475752-37uoroev11ii5d2hb850n91hctpe4auu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
